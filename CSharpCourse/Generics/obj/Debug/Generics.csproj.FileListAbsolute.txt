@@ -1,0 +1,6 @@
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Generics\obj\Debug\Generics.pdb

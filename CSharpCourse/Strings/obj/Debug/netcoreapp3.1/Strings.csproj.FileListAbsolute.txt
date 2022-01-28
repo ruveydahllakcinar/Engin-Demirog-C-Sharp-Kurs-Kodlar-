@@ -1,0 +1,14 @@
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.AssemblyReference.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache

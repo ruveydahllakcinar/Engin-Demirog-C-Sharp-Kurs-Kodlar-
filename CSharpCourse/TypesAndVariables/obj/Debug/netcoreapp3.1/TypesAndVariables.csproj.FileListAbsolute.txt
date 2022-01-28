@@ -1,0 +1,14 @@
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.exe
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.deps.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.runtimeconfig.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.runtimeconfig.dev.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.dll
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\netcoreapp3.1\TypesAndVariables.pdb
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.AssemblyInfo.cs
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.dll
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.pdb
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\netcoreapp3.1\TypesAndVariables.genruntimeconfig.cache

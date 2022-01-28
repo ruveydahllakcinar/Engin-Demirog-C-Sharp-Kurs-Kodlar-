@@ -1,0 +1,13 @@
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\Ruveyda Akçınar\source\repos\CSharpCourse\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.genruntimeconfig.cache
